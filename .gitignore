@@ -1,0 +1,4 @@
+*.class
+.idea/
+checker/input/
+checker/output/
