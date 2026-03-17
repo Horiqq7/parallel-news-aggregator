@@ -2,3 +2,5 @@
 .idea/
 checker/input/
 checker/output/
+.vscode/
+.metals/
